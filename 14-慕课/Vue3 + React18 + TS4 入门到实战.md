@@ -1,0 +1,8 @@
+---
+时间: 50小时
+作者: 慕课 - ￥799.00
+标题: Vue3 + React18 + TS4 入门到实战
+图片: https://img1.sycdn.imooc.com/szimg/632d59840927c04b05400304.jpg
+链接: https://pan.quark.cn/list#/list/all/0cd0276c0722460397ae9b0120712284-00%E6%B1%9F%E9%B9%8F%E5%88%A9/d1c90b69abbf4b16a906693cdb2ea993-00%E6%B1%9F*101%E5%89%8D%E7%AB%AF*101%E8%A7%86%E9%A2%91/6a685027ac82430388a2f12547f05845-015Vue3%20+%20React18%20+%20TS4%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E6%88%98%20%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A03%E5%A4%A7%E7%83%AD%E9%97%A8%E6%8A%80%E6%9C%AF
+评价: ★★★★
+---
